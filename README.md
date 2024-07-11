@@ -19,39 +19,6 @@ This is a full-stack news application built using the MERN (MongoDB, Express.js,
 - **Authentication**: JWT, Google OAuth
 - **Deployment**: Render
 
-### How to Install and Run the Project
-
-1. Clone the repository:
-
-git clone https://github.com/amazingandyyy/mern.git
-text
-
-2. Install dependencies for both the client and server:
-
-cd mern
-cd server
-npm install
-cd ../client
-npm install
-text
-
-3. Set up the environment variables:
-   - In the `server` directory, create a `.env` file and add the following:
-     ```
-     JWT_SECRET=YOUR_JWT_SECRET
-     ```
-   - Replace `YOUR_JWT_SECRET` with a secure secret key.
-
-4. Start the development servers:
-
-cd server
-npm run dev
-cd ../client
-npm run dev
-
-
-
-The client-side application will be available at `http://localhost:3000`, and the server-side application will be running at `http://localhost:8000`.
 
 ### How to Use the Project
 
@@ -76,7 +43,7 @@ The client-side application will be available at `http://localhost:3000`, and th
 
 ### Deployment
 
-The project is deployed on the Render platform. You can access the live application at [https://mern-news-app.onrender.com/](https://mern-news-app.onrender.com/).
+The project is deployed on the Render platform. You can access the live application at [https://mern-news-app.onrender.com/](https://publishhubb.onrender.com/).
 
 ### Contributing
 
